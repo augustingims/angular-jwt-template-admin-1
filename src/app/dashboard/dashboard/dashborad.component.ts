@@ -1,6 +1,6 @@
 import {Component, OnDestroy, OnInit} from '@angular/core';
 import {Router} from '@angular/router';
-import {AccountService, EventManager} from '../../core';
+import {AccountService, EventManager, Account} from '../../core';
 
 @Component({
   selector: 'app-dashborad',
